@@ -57,6 +57,8 @@ Fields: name, course, email, profile image URL
 Data pushed to Firebase under students/ node
 --
 ✅ Requirements
-Android Studio
-Firebase Project with Realtime Database enabled
-Internet connection
+1-Android Studio
+
+2-Firebase Project with Realtime Database enabled
+
+3-Internet connection
